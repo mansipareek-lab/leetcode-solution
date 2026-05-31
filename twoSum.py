@@ -15,7 +15,7 @@ class Solution(object):
         return [-1, -1]  # no solution found
 
 
-# --- Test it locally ---
+
 sol = Solution()
 
 # Test case 1
